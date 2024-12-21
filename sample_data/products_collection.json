@@ -1,0 +1,156 @@
+[
+    {
+        "product_id": 101,
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "price": 146,
+        "stock_quantity": 61
+    },
+    {
+        "product_id": 102,
+        "product_name": "Phone",
+        "category": "Electronics",
+        "price": 758,
+        "stock_quantity": 30
+    },
+    {
+        "product_id": 103,
+        "product_name": "Tablet",
+        "category": "Electronics",
+        "price": 343,
+        "stock_quantity": 63
+    },
+    {
+        "product_id": 104,
+        "product_name": "Headphones",
+        "category": "Accessories",
+        "price": 927,
+        "stock_quantity": 84
+    },
+    {
+        "product_id": 105,
+        "product_name": "Smartwatch",
+        "category": "Wearables",
+        "price": 907,
+        "stock_quantity": 65
+    },
+    {
+        "product_id": 106,
+        "product_name": "Monitor",
+        "category": "Electronics",
+        "price": 586,
+        "stock_quantity": 60
+    },
+    {
+        "product_id": 107,
+        "product_name": "Keyboard",
+        "category": "Accessories",
+        "price": 984,
+        "stock_quantity": 43
+    },
+    {
+        "product_id": 108,
+        "product_name": "Mouse",
+        "category": "Accessories",
+        "price": 211,
+        "stock_quantity": 52
+    },
+    {
+        "product_id": 109,
+        "product_name": "Gaming Chair",
+        "category": "Furniture",
+        "price": 211,
+        "stock_quantity": 82
+    },
+    {
+        "product_id": 110,
+        "product_name": "Desk Lamp",
+        "category": "Lighting",
+        "price": 743,
+        "stock_quantity": 70
+    },
+    {
+        "product_id": 111,
+        "product_name": "Router",
+        "category": "Networking",
+        "price": 863,
+        "stock_quantity": 72
+    },
+    {
+        "product_id": 112,
+        "product_name": "External Hard Drive",
+        "category": "Storage",
+        "price": 782,
+        "stock_quantity": 73
+    },
+    {
+        "product_id": 113,
+        "product_name": "USB Flash Drive",
+        "category": "Storage",
+        "price": 644,
+        "stock_quantity": 38
+    },
+    {
+        "product_id": 114,
+        "product_name": "Camera",
+        "category": "Electronics",
+        "price": 279,
+        "stock_quantity": 67
+    },
+    {
+        "product_id": 115,
+        "product_name": "Speakers",
+        "category": "Audio",
+        "price": 574,
+        "stock_quantity": 33
+    },
+    {
+        "product_id": 116,
+        "product_name": "Fitness Tracker",
+        "category": "Wearables",
+        "price": 202,
+        "stock_quantity": 22
+    },
+    {
+        "product_id": 117,
+        "product_name": "Microwave",
+        "category": "Appliances",
+        "price": 120,
+        "stock_quantity": 69
+    },
+    {
+        "product_id": 118,
+        "product_name": "Blender",
+        "category": "Appliances",
+        "price": 195,
+        "stock_quantity": 84
+    },
+    {
+        "product_id": 119,
+        "product_name": "Air Fryer",
+        "category": "Appliances",
+        "price": 1038,
+        "stock_quantity": 50
+    },
+    {
+        "product_id": 120,
+        "product_name": "Electric Kettle",
+        "category": "Appliances",
+        "price": 636,
+        "stock_quantity": 44
+    },
+    {
+        "product_id": 121,
+        "product_name": "Projector",
+        "category": "Electronics",
+        "price": 635,
+        "stock_quantity": 59
+    },
+    {
+        "product_id": 122,
+        "product_name": "Desk Organizer",
+        "category": "Furniture",
+        "price": 683,
+        "stock_quantity": 78
+    }
+]

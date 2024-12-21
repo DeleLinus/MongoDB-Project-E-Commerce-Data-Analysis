@@ -1,0 +1,2 @@
+# exclude python environment folder
+.venv

@@ -1,0 +1,242 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Teresa Gallegos",
+        "email": "teresagallegos@coldmail.com",
+        "address": {
+            "street": "894 Valentine Lake",
+            "city": "Ashleyville",
+            "state": "Arizona"
+        }
+    },
+    {
+        "customer_id": 2,
+        "name": "Mr. Ronald Kerr DDS",
+        "email": "mr.ronaldkerrdds@hotmail.com",
+        "address": {
+            "street": "459 Dylan Parkways",
+            "city": "South Michelleton",
+            "state": "Vermont"
+        }
+    },
+    {
+        "customer_id": 3,
+        "name": "Justin Cox DDS",
+        "email": "justincoxdds@gmail.com",
+        "address": {
+            "street": "297 Nina Loop",
+            "city": "Kathleenberg",
+            "state": "New York"
+        }
+    },
+    {
+        "customer_id": 4,
+        "name": "Megan Brown",
+        "email": "meganbrown@coldmail.com",
+        "address": {
+            "street": "628 Danielle Tunnel",
+            "city": "Johnsonhaven",
+            "state": "Colorado"
+        }
+    },
+    {
+        "customer_id": 5,
+        "name": "Randy Smith",
+        "email": "randysmith@hotmail.com",
+        "address": {
+            "street": "558 Durham Plaza",
+            "city": "East Kelly",
+            "state": "Tennessee"
+        }
+    },
+    {
+        "customer_id": 6,
+        "name": "Ashley Cole",
+        "email": "ashleycole@gmail.com",
+        "address": {
+            "street": "698 Stacy Motorway",
+            "city": "Danielside",
+            "state": "Kansas"
+        }
+    },
+    {
+        "customer_id": 7,
+        "name": "Michelle Evans",
+        "email": "michelleevans@gmail.com",
+        "address": {
+            "street": "659 Vazquez Mall",
+            "city": "East Sharon",
+            "state": "New York"
+        }
+    },
+    {
+        "customer_id": 8,
+        "name": "Kevin Hansen",
+        "email": "kevinhansen@hotmail.com",
+        "address": {
+            "street": "492 Thompson Lock",
+            "city": "Cynthiafort",
+            "state": "Alaska"
+        }
+    },
+    {
+        "customer_id": 9,
+        "name": "Jordan Edwards",
+        "email": "jordanedwards@coldmail.com",
+        "address": {
+            "street": "630 Nicholas Road",
+            "city": "North Carol",
+            "state": "Mississippi"
+        }
+    },
+    {
+        "customer_id": 10,
+        "name": "Kyle Burch",
+        "email": "kyleburch@coldmail.com",
+        "address": {
+            "street": "864 Kenneth Cliff",
+            "city": "South James",
+            "state": "Michigan"
+        }
+    },
+    {
+        "customer_id": 11,
+        "name": "Timothy Howard",
+        "email": "timothyhoward@coldmail.com",
+        "address": {
+            "street": "522 Dyer Extension",
+            "city": "Joshuaborough",
+            "state": "Colorado"
+        }
+    },
+    {
+        "customer_id": 12,
+        "name": "Mary Velazquez",
+        "email": "maryvelazquez@gmail.com",
+        "address": {
+            "street": "147 Smith Parks",
+            "city": "South Maryland",
+            "state": "Pennsylvania"
+        }
+    },
+    {
+        "customer_id": 13,
+        "name": "Michael Miller",
+        "email": "michaelmiller@hotmail.com",
+        "address": {
+            "street": "373 Brenda Centers",
+            "city": "Kathleenstad",
+            "state": "New Mexico"
+        }
+    },
+    {
+        "customer_id": 14,
+        "name": "Christine Gallagher",
+        "email": "christinegallagher@hotmail.com",
+        "address": {
+            "street": "314 Hernandez Pass",
+            "city": "Davidsonport",
+            "state": "Arizona"
+        }
+    },
+    {
+        "customer_id": 15,
+        "name": "William Davis",
+        "email": "williamdavis@gmail.com",
+        "address": {
+            "street": "477 Jennifer Corner",
+            "city": "Leeberg",
+            "state": "Arizona"
+        }
+    },
+    {
+        "customer_id": 16,
+        "name": "Jacqueline Davis",
+        "email": "jacquelinedavis@coldmail.com",
+        "address": {
+            "street": "810 Dustin Causeway",
+            "city": "North Dennis",
+            "state": "Tennessee"
+        }
+    },
+    {
+        "customer_id": 17,
+        "name": "Aaron Moore",
+        "email": "aaronmoore@coldmail.com",
+        "address": {
+            "street": "596 Padilla Keys",
+            "city": "East Andre",
+            "state": "Georgia"
+        }
+    },
+    {
+        "customer_id": 18,
+        "name": "Michael Mendoza",
+        "email": "michaelmendoza@coldmail.com",
+        "address": {
+            "street": "864 Michael Pines",
+            "city": "Emilystad",
+            "state": "West Virginia"
+        }
+    },
+    {
+        "customer_id": 19,
+        "name": "Christopher Ramirez",
+        "email": "christopherramirez@coldmail.com",
+        "address": {
+            "street": "226 Ashley Crescent",
+            "city": "New Claudia",
+            "state": "Wyoming"
+        }
+    },
+    {
+        "customer_id": 20,
+        "name": "Annette Martinez",
+        "email": "annettemartinez@coldmail.com",
+        "address": {
+            "street": "242 Eric Rapid",
+            "city": "Lake Ericashire",
+            "state": "Arizona"
+        }
+    },
+    {
+        "customer_id": 21,
+        "name": "Loretta Davidson",
+        "email": "lorettadavidson@hotmail.com",
+        "address": {
+            "street": "273 Abbott Station",
+            "city": "East Wesleybury",
+            "state": "South Dakota"
+        }
+    },
+    {
+        "customer_id": 22,
+        "name": "Lisa Lee",
+        "email": "lisalee@gmail.com",
+        "address": {
+            "street": "692 Sharon Branch",
+            "city": "West Robertton",
+            "state": "Iowa"
+        }
+    },
+    {
+        "customer_id": 23,
+        "name": "Sheri Henderson",
+        "email": "sherihenderson@coldmail.com",
+        "address": {
+            "street": "266 Michael Lane",
+            "city": "South Jennifermouth",
+            "state": "North Dakota"
+        }
+    },
+    {
+        "customer_id": 24,
+        "name": "Lydia Gates",
+        "email": "lydiagates@gmail.com",
+        "address": {
+            "street": "790 Wilson Groves",
+            "city": "Campbellmouth",
+            "state": "Connecticut"
+        }
+    }
+]
